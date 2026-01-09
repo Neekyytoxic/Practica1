@@ -81,8 +81,9 @@ pipeline {
 
 Ограничьте доступ через Credentials
 
-🖼 Пример интерфейса Jenkins
+🖼Jenkins
 
+<img width="742" height="1024" alt="image" src="https://github.com/user-attachments/assets/2adc6852-786f-421e-a77e-3fcffdc25a14" />
 
 
 ✅ Преимущества
@@ -99,8 +100,3 @@ yaml
 Копировать код
 
 ---
-
-# 🔹 ШАГ 6. Проверка статуса Git
-
-```bash
-git status
